@@ -21,6 +21,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
+### Pricing Overview
+
+| Product | Pricing | Free Tier / Limit |
+| :--- | :--- | :--- |
+| **[Archon](https://archon.ai/)** | Free / Open-Source (BYOK) | Free (Pay LLM provider only) |
+| **[Cursor](https://cursor.com/)** | $20/mo (Pro), $60/mo (Pro+) | 2,000 completions/mo, limited agent requests |
+| **[Claude Code](https://claude.ai/)** | $20/mo (Claude Pro) or API | Limited by Pro subscription or API credits |
+| **[OpenAI Agents SDK](https://openai.com/)** | Free (Pay-as-you-go API) | Dependent on OpenAI API credits |
+| **[OpenHarness](https://github.com/HKUDS/OpenHarness)** | Free (OSS) | Free (Supports Copilot/Claude Pro) |
+| **[Langflow Cloud](https://www.langflow.org/)** | Free (Managed by DataStax) | Free (Pay for 3rd party LLMs/DBs) |
+| **[Dify Cloud](https://dify.ai/)** | $59/mo (Pro), $159/mo (Team) | 200 message credits, 5 apps |
+| **[Phidata (Agno)](https://www.agno.com/)** | $30/mo per seat | OSS is Free; Cloud has limited free connections |
+
 ### Core Multi-Agent Harness Platforms
 
 - **[Archon](https://archon.ai/)**  
