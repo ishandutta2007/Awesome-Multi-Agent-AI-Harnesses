@@ -1,27 +1,44 @@
-# Awesome-Multi-Agent-AI-Harnesses
-## Top Multi-Agent AI Harness Systems Ecosystem
+# 🤖 Awesome Multi-Agent AI Harnesses 🚀
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Orchestrating, Managing & Running Multi-Agent AI Systems*  
-**Last updated: March 2026**
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Agent-AI-Harnesses.svg?style=social&label=Star)](https://github.com/ishandutta2007/Awesome-Multi-Agent-AI-Harnesses)
+
+> **The ultimate curated list of Multi-Agent AI Harness Systems, Frameworks, and SaaS Platforms.**  
+> Orchestrate, manage, and deploy teams of specialized AI agents to solve complex problems.
+
+---
+
+## 🌟 Top Multi-Agent AI Harness Systems Ecosystem
+
+**Focused on Orchestrating, Managing & Running Multi-Agent AI Systems**  
+*Last updated: March 2026*
 
 This repository tracks notable **platforms** and **open-source projects** building **Multi-Agent AI Harness Systems**. These frameworks allow developers to orchestrate teams of specialized AI agents that collaborate, reason together, delegate tasks, maintain shared memory, and solve complex problems through structured workflows.
 
-**Examples** include Archon, Claude Code, Cursor, LangGraph, OpenAI Agents SDK (Python), OpenHarness, and SWE-agent (the category leaders). Tools listed here emphasize **agent coordination**, state management, tool use, human-in-the-loop, and production reliability.
+### 🎯 Key Focus Areas:
+- **Agent Orchestration & Coordination** 🤝
+- **State Management & Persistence** 💾
+- **Human-in-the-Loop (HITL) Support** 👤
+- **Tool Use & Function Calling** 🛠️
+- **Production Reliability & Scalability** 📈
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local LLMs (Ollama), full customization, and complete control — ideal for developers building sophisticated multi-agent applications without vendor lock-in.
+---
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+## 📖 Table of Contents
+- [🏢 SaaS Products](#-saas-products)
+  - [💰 Pricing Overview](#-pricing-overview)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer](#-disclaimer)
+- [📊 Star History](#-star-history)
 
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+---
 
-## SaaS Products
+## 🏢 SaaS Products
 
-### Pricing Overview
+### 💰 Pricing Overview
 
 | Product | Pricing | Free Tier / Limit |
 | :--- | :--- | :--- |
@@ -36,7 +53,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Dify Cloud](https://dify.ai/)** | $59/mo (Pro), $159/mo (Team) | 200 message credits, 5 apps |
 | **[Phidata (Agno)](https://www.agno.com/)** | $30/mo per seat | OSS is Free; Cloud has limited free connections |
 
-### Core Multi-Agent Harness Platforms
+### 🚀 Core Multi-Agent Harness Platforms
 
 - **[Archon](https://archon.ai/)**  
   Advanced multi-agent orchestration platform designed for complex task decomposition and agent collaboration.
@@ -50,13 +67,15 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[OpenAI Agents SDK](https://openai.com/)**  
   Official SDK for building and deploying multi-agent systems with strong orchestration primitives.
 
-### Advanced Platforms
+### 🛠️ Advanced Platforms
 
 **Other notable mentions**: OpenHarness and various enterprise agent platforms.
 
-## Open-Source GitHub Projects
+---
 
-### Dedicated Multi-Agent Harness Systems
+## 💻 Open-Source GitHub Projects
+
+### 🏗️ Dedicated Multi-Agent Harness Systems
 
 - **[LangGraph](https://github.com/langchain-ai/langgraph)**  
   The leading open-source framework for building stateful, controllable multi-agent applications with cycles, persistence, and human-in-the-loop support.
@@ -85,28 +104,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Langflow](https://github.com/langflow-ai/langflow)**  
   Visual low-code platform for building and orchestrating multi-agent workflows on top of LangChain.
 
-### Additional Strong Open-Source Options
+### 🌟 Additional Strong Open-Source Options
 
 - **[Dify](https://github.com/langgenius/dify)** — Open-source AI workflow and multi-agent platform with visual builder.
 - **[Letta (MemGPT)](https://github.com/letta-ai/letta)** — Advanced memory management for long-running multi-agent systems.
 - **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** — Microsoft’s orchestration framework with planners and plugins.
 - **[Haystack](https://github.com/deepset-ai/haystack)** — Production-ready pipelines with strong agent orchestration.
 - **[DSPy](https://github.com/stanfordnlp/dspy)** — Programming framework for optimizing multi-agent and multi-step systems.
-- Many community **LangGraph + CrewAI** templates for domain-specific multi-agent harnesses (research, coding, automation, etc.).
 
-**Frameworks for building custom systems**: Combine **LangGraph** + **CrewAI** + **AutoGen** with **Ollama** / **vLLM** for fully local, scalable multi-agent harnesses.
+**Pro Tip:** Combine **LangGraph** + **CrewAI** + **AutoGen** with **Ollama** / **vLLM** for fully local, scalable multi-agent harnesses.
 
-## How to Contribute
+---
+
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
 4. Submit PR with a short explanation.
 
-Star the repo if you find it useful!
+**Give us a star ⭐ if you find this list useful!**
 
+---
 
-## 📈 Star History
+## 📊 Star History
 
 <div align="center">
 	<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Multi-Agent-AI-Harnesses&type=date&legend=bottom-right">
@@ -118,8 +139,9 @@ Star the repo if you find it useful!
 	</a>
 </div>
 
+---
 
-## Disclaimer
+## ⚖️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Multi-agent systems can be computationally expensive. Monitor costs and resources carefully.
@@ -128,4 +150,4 @@ Star the repo if you find it useful!
 ---
 
 **Made for AI engineers, agent builders, and developers creating complex intelligent systems.**  
-Let's make multi-agent orchestration more powerful, controllable, and open.
+*Let's make multi-agent orchestration more powerful, controllable, and open.*
