@@ -31,6 +31,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[OpenAI Agents SDK](https://openai.com/)** | Free (Pay-as-you-go API) | Dependent on OpenAI API credits |
 | **[OpenHarness](https://github.com/HKUDS/OpenHarness)** | Free (OSS) | Free (Supports Copilot/Claude Pro) |
 | **[Langflow Cloud](https://www.langflow.org/)** | Free (Managed by DataStax) | Free (Pay for 3rd party LLMs/DBs) |
+| **[LangGraph Cloud](https://www.langchain.com/langgraph)** | $39/user/mo (Plus) | 1 Free Dev deployment, ~5k traces/mo |
+| **[CrewAI Cloud](https://www.crewai.com/)** | $25/mo (Pro) | 50 executions/mo (Free) |
 | **[Dify Cloud](https://dify.ai/)** | $59/mo (Pro), $159/mo (Team) | 200 message credits, 5 apps |
 | **[Phidata (Agno)](https://www.agno.com/)** | $30/mo per seat | OSS is Free; Cloud has limited free connections |
 
