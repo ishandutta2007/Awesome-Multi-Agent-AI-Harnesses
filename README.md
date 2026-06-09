@@ -6,6 +6,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Agent-AI-Harnesses.svg?style=social&label=Star)](https://github.com/ishandutta2007/Awesome-Multi-Agent-AI-Harnesses)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 > **The ultimate curated list of Multi-Agent AI Harness Systems, Frameworks, and SaaS Platforms.**  
 > Orchestrate, manage, and deploy teams of specialized AI agents to solve complex problems.
