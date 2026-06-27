@@ -49,18 +49,18 @@ This repository tracks notable **platforms** and **open-source projects** buildi
 
 ### 💰 Pricing Overview
 
-| Product | Pricing | Free Tier / Limit |
-| :--- | :--- | :--- |
-| **[Archon](https://archon.ai/)** | Free / Open-Source (BYOK) | Free (Pay LLM provider only) |
-| **[Cursor](https://cursor.com/)** | $20/mo (Pro), $60/mo (Pro+) | 2,000 completions/mo, limited agent requests |
-| **[Claude Code](https://claude.ai/)** | $20/mo (Claude Pro) or API | Limited by Pro subscription or API credits |
-| **[OpenAI Agents SDK](https://openai.com/)** | Free (Pay-as-you-go API) | Dependent on OpenAI API credits |
-| **[OpenHarness](https://github.com/HKUDS/OpenHarness)** | Free (OSS) | Free (Supports Copilot/Claude Pro) |
-| **[Langflow Cloud](https://www.langflow.org/)** | Free (Managed by DataStax) | Free (Pay for 3rd party LLMs/DBs) |
-| **[LangGraph Cloud](https://www.langchain.com/langgraph)** | $39/user/mo (Plus) | 1 Free Dev deployment, ~5k traces/mo |
-| **[CrewAI Cloud](https://www.crewai.com/)** | $25/mo (Pro) | 50 executions/mo (Free) |
-| **[Dify Cloud](https://dify.ai/)** | $59/mo (Pro), $159/mo (Team) | 200 message credits, 5 apps |
-| **[Phidata (Agno)](https://www.agno.com/)** | $30/mo per seat | OSS is Free; Cloud has limited free connections |
+| Product | Pricing | Free Tier / Limit | Company Size (Valuation / Revenue) |
+| :--- | :--- | :--- | :--- |
+| **[Claude Code](https://claude.ai/)** | $20/mo (Claude Pro) or API | Limited by Pro subscription or API credits | ~$965B Valuation ($47B ARR) |
+| **[OpenAI Agents SDK](https://openai.com/)** | Free (Pay-as-you-go API) | Dependent on OpenAI API credits | ~$852B Valuation ($24B ARR) |
+| **[Cursor](https://cursor.com/)** | $20/mo (Pro), $60/mo (Pro+) | 2,000 completions/mo, limited agent requests | $60B Valuation ($3B ARR) |
+| **[Langflow Cloud](https://www.langflow.org/)** | Free (Managed by DataStax) | Free (Pay for 3rd party LLMs/DBs) | $1.6B Valuation (Acquired by IBM) |
+| **[LangGraph Cloud](https://www.langchain.com/langgraph)** | $39/user/mo (Plus) | 1 Free Dev deployment, ~5k traces/mo | $1.25B Valuation |
+| **[Dify Cloud](https://dify.ai/)** | $59/mo (Pro), $159/mo (Team) | 200 message credits, 5 apps | $180M Valuation |
+| **[CrewAI Cloud](https://www.crewai.com/)** | $25/mo (Pro) | 50 executions/mo (Free) | ~$100M Valuation ($18M Funding) |
+| **[Phidata (Agno)](https://www.agno.com/)** | $30/mo per seat | OSS is Free; Cloud has limited free connections | Seed Stage (Estimated ~$20M - $50M) |
+| **[Archon](https://archon.ai/)** | Free / Open-Source (BYOK) | Free (Pay LLM provider only) | N/A (Open-Source Project) |
+| **[OpenHarness](https://github.com/HKUDS/OpenHarness)** | Free (OSS) | Free (Supports Copilot/Claude Pro) | N/A (Academic / OSS) |
 
 ### 🚀 Core Multi-Agent Harness Platforms
 
