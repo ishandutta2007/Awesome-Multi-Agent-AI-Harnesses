@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%" style="border-radius: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <!-- Definitions for gradients and shadows -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07040d" />
+      <stop offset="50%" stop-color="#0f0926" />
+      <stop offset="100%" stop-color="#1c0f3d" />
+    </linearGradient>
+    
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8a2be2" />
+      <stop offset="30%" stop-color="#d896ff" />
+      <stop offset="70%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#4facfe" />
+    </linearGradient>
+    
+    <linearGradient id="nodeGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#4facfe" stop-opacity="0.2" />
+    </linearGradient>
+
+    <linearGradient id="nodeGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f857a6" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#ff5858" stop-opacity="0.2" />
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" rx="12" fill="url(#bgGrad)" />
+
+  <!-- Grid lines for technological feel -->
+  <g stroke="#ffffff" stroke-width="0.5" opacity="0.05">
+    <line x1="100" y1="0" x2="100" y2="400" />
+    <line x1="200" y1="0" x2="200" y2="400" />
+    <line x1="300" y1="0" x2="300" y2="400" />
+    <line x1="400" y1="0" x2="400" y2="400" />
+    <line x1="500" y1="0" x2="500" y2="400" />
+    <line x1="600" y1="0" x2="600" y2="400" />
+    <line x1="700" y1="0" x2="700" y2="400" />
+    <line x1="800" y1="0" x2="800" y2="400" />
+    <line x1="900" y1="0" x2="900" y2="400" />
+    <line x1="1000" y1="0" x2="1000" y2="400" />
+    <line x1="1100" y1="0" x2="1100" y2="400" />
+    
+    <line x1="0" y1="100" x2="1200" y2="100" />
+    <line x1="0" y1="200" x2="1200" y2="200" />
+    <line x1="0" y1="300" x2="1200" y2="300" />
+  </g>
+
+  <!-- Multi-Agent Network Visualization (Background lines and connections) -->
+  <g stroke="#00f2fe" stroke-width="1.5" opacity="0.25">
+    <!-- Connecting paths between nodes -->
+    <path d="M 150 120 L 300 80 M 300 80 L 450 150 M 450 150 L 350 280 M 350 280 L 150 120" stroke-dasharray="5,5" />
+    <path d="M 1050 120 L 900 80 M 900 80 L 800 200 M 800 200 L 950 290 M 950 290 L 1050 120" stroke-dasharray="5,5" />
+    <path d="M 300 80 L 600 50 M 600 50 L 900 80" stroke-dasharray="3,3" stroke="#8a2be2" />
+    <path d="M 450 150 L 600 350 M 600 350 L 800 200" stroke-dasharray="3,3" stroke="#f857a6" />
+  </g>
+
+  <!-- Node Dots (Agents) -->
+  <g filter="url(#glow)">
+    <!-- Central orchestrator -->
+    <circle cx="600" cy="200" r="18" fill="#00f2fe" opacity="0.9" />
+    <circle cx="600" cy="200" r="28" fill="none" stroke="#00f2fe" stroke-width="2" opacity="0.5" stroke-dasharray="6,6" />
+
+    <!-- External agents -->
+    <circle cx="150" cy="120" r="10" fill="#f857a6" />
+    <circle cx="300" cy="80" r="12" fill="#00f2fe" />
+    <circle cx="450" cy="150" r="10" fill="#8a2be2" />
+    <circle cx="350" cy="280" r="11" fill="url(#nodeGrad2)" />
+    
+    <circle cx="1050" cy="120" r="10" fill="#00f2fe" />
+    <circle cx="900" cy="80" r="12" fill="#f857a6" />
+    <circle cx="800" cy="200" r="10" fill="#8a2be2" />
+    <circle cx="950" cy="290" r="11" fill="url(#nodeGrad1)" />
+  </g>
+
+  <!-- Central Title Text -->
+  <g text-anchor="middle">
+    <!-- Awesome Text -->
+    <text x="600" y="160" font-size="52" font-weight="900" letter-spacing="2" fill="url(#textGrad)" filter="url(#glow)">
+      AWESOME MULTI-AGENT AI HARNESSES
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="600" y="225" font-size="20" font-weight="400" fill="#e0d5ff" letter-spacing="1">
+      Orchestrating, Managing &amp; Scaling Specialized AI Agent Teams
+    </text>
+    
+    <!-- Badges / Highlights inside banner -->
+    <rect x="420" y="270" width="160" height="36" rx="18" fill="#1c0f3d" stroke="#8a2be2" stroke-width="1.5" />
+    <text x="500" y="293" font-size="13" font-weight="600" fill="#d896ff">🤖 Orchestration</text>
+
+    <rect x="620" y="270" width="160" height="36" rx="18" fill="#1c0f3d" stroke="#00f2fe" stroke-width="1.5" />
+    <text x="700" y="293" font-size="13" font-weight="600" fill="#00f2fe">🚀 Production Ready</text>
+  </g>
+
+</svg>
