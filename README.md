@@ -86,40 +86,40 @@ This repository tracks notable **platforms** and **open-source projects** buildi
 
 ### 🏗️ Dedicated Multi-Agent Harness Systems
 
-- **[LangGraph](https://github.com/langchain-ai/langgraph)**  
-  The leading open-source framework for building stateful, controllable multi-agent applications with cycles, persistence, and human-in-the-loop support.
+- **[Langflow](https://github.com/langflow-ai/langflow)** [![GitHub stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)  
+  Visual low-code platform for building and orchestrating multi-agent workflows on top of LangChain.
 
-- **[CrewAI](https://github.com/crewAIInc/crewAI)**  
-  Popular role-based multi-agent orchestration framework. Extremely developer-friendly for creating collaborative agent teams with clear roles and goals.
-
-- **[AutoGen](https://github.com/microsoft/autogen)**  
-  Microsoft’s powerful multi-agent conversation framework that enables dynamic, flexible agent interactions and group chats.
-
-- **[SWE-agent](https://github.com/princeton-nlp/SWE-agent)**  
-  Specialized agent harness for software engineering tasks that autonomously interacts with code repositories.
-
-- **[OpenDevin](https://github.com/OpenDevin/OpenDevin)**  
+- **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** [![GitHub stars](https://img.shields.io/github/stars/OpenDevin/OpenDevin?style=social&color=white)](https://github.com/OpenDevin/OpenDevin/stargazers)  
   Community-driven open-source autonomous AI software engineer platform with multi-agent capabilities.
 
-- **[Phidata](https://github.com/phidatahq/phidata)**  
-  Framework for building production-grade agents with memory, knowledge, and tools. Excellent for multi-agent systems.
-
-- **[MetaGPT](https://github.com/geekan/MetaGPT)**  
+- **[MetaGPT](https://github.com/geekan/MetaGPT)** [![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers)  
   Multi-agent framework that simulates a software company with specialized roles for complex project execution.
 
-- **[Camel-AI](https://github.com/camel-ai/camel)**  
-  Communicative agent framework focused on role-playing and cooperative problem solving between agents.
+- **[AutoGen](https://github.com/microsoft/autogen)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
+  Microsoft’s powerful multi-agent conversation framework that enables dynamic, flexible agent interactions and group chats.
 
-- **[Langflow](https://github.com/langflow-ai/langflow)**  
-  Visual low-code platform for building and orchestrating multi-agent workflows on top of LangChain.
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+  Popular role-based multi-agent orchestration framework. Extremely developer-friendly for creating collaborative agent teams with clear roles and goals.
+
+- **[Phidata](https://github.com/phidatahq/phidata)** [![GitHub stars](https://img.shields.io/github/stars/phidatahq/phidata?style=social&color=white)](https://github.com/phidatahq/phidata/stargazers)  
+  Framework for building production-grade agents with memory, knowledge, and tools. Excellent for multi-agent systems.
+
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+  The leading open-source framework for building stateful, controllable multi-agent applications with cycles, persistence, and human-in-the-loop support.
+
+- **[SWE-agent](https://github.com/princeton-nlp/SWE-agent)** [![GitHub stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social&color=white)](https://github.com/princeton-nlp/SWE-agent/stargazers)  
+  Specialized agent harness for software engineering tasks that autonomously interacts with code repositories.
+
+- **[Camel-AI](https://github.com/camel-ai/camel)** [![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white)](https://github.com/camel-ai/camel/stargazers)  
+  Communicative agent framework focused on role-playing and cooperative problem solving between agents.
 
 ### 🌟 Additional Strong Open-Source Options
 
-- **[Dify](https://github.com/langgenius/dify)** — Open-source AI workflow and multi-agent platform with visual builder.
-- **[Letta (MemGPT)](https://github.com/letta-ai/letta)** — Advanced memory management for long-running multi-agent systems.
-- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** — Microsoft’s orchestration framework with planners and plugins.
-- **[Haystack](https://github.com/deepset-ai/haystack)** — Production-ready pipelines with strong agent orchestration.
-- **[DSPy](https://github.com/stanfordnlp/dspy)** — Programming framework for optimizing multi-agent and multi-step systems.
+- **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) — Open-source AI workflow and multi-agent platform with visual builder.
+- **[DSPy](https://github.com/stanfordnlp/dspy)** [![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white)](https://github.com/stanfordnlp/dspy/stargazers) — Programming framework for optimizing multi-agent and multi-step systems.
+- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social&color=white)](https://github.com/microsoft/semantic-kernel/stargazers) — Microsoft’s orchestration framework with planners and plugins.
+- **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers) — Production-ready pipelines with strong agent orchestration.
+- **[Letta (MemGPT)](https://github.com/letta-ai/letta)** [![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers) — Advanced memory management for long-running multi-agent systems.
 
 **Pro Tip:** Combine **LangGraph** + **CrewAI** + **AutoGen** with **Ollama** / **vLLM** for fully local, scalable multi-agent harnesses.
 
