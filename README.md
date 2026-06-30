@@ -138,6 +138,15 @@ This repository tracks notable **platforms** and **open-source projects** buildi
 
 ---
 
+## 🔍 See Also
+
+- **[AI CLI Coding Agents](https://github.com/ishandutta2007/Awesome-CLI-Coding-Agents)**
+- **[AI IDE](https://github.com/ishandutta2007/Awesome-AI-IDE)**
+- **[AI IDE Extensions](https://github.com/ishandutta2007/Awesome-AI-IDE-Extensions)**
+- **[AI Code Editors(All kind)](https://github.com/ishandutta2007/Awesome-AI-Code-Editor)**
+
+---
+
 ## 📊 Star History
 
 <div align="center">
