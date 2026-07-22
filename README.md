@@ -123,6 +123,9 @@ This repository tracks notable **platforms** and **open-source projects** buildi
 - **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers) — Production-ready pipelines with strong agent orchestration.
 - **[Letta (MemGPT)](https://github.com/letta-ai/letta)** [![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers) — Advanced memory management for long-running multi-agent systems.
 
+- **[Agon](https://github.com/AutoResearch-Factory/Agon)** [![GitHub stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=social&color=white)](https://github.com/AutoResearch-Factory/Agon/stargazers)  
+  Autoresearch harness that treats prompting as engineering, carrying the smallest prompt footprint among cross-disciplinary systems (18 roles, 230.6 KiB). Has run across 10+ scientific fields without modification.
+
 **Pro Tip:** Combine **LangGraph** + **CrewAI** + **AutoGen** with **Ollama** / **vLLM** for fully local, scalable multi-agent harnesses.
 
 ---
