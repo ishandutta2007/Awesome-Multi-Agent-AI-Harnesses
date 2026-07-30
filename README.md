@@ -115,6 +115,9 @@ This repository tracks notable **platforms** and **open-source projects** buildi
 - **[Camel-AI](https://github.com/camel-ai/camel)** [![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white)](https://github.com/camel-ai/camel/stargazers)  
   Communicative agent framework focused on role-playing and cooperative problem solving between agents.
 
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** [![GitHub stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social&color=white)](https://github.com/Orkas-AI/Orkas/stargazers)\
+  Open-source, local-first desktop AI workspace where a Commander decomposes goals and coordinates specialist agents in parallel or sequence through one conversation.
+
 ### 🌟 Additional Strong Open-Source Options
 
 - **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) — Open-source AI workflow and multi-agent platform with visual builder.
