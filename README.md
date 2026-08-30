@@ -118,6 +118,9 @@ This repository tracks notable **platforms** and **open-source projects** buildi
 - **[Orkas](https://github.com/Orkas-AI/Orkas)** [![GitHub stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social&color=white)](https://github.com/Orkas-AI/Orkas/stargazers)\
   Open-source, local-first desktop AI workspace where a Commander decomposes goals and coordinates specialist agents in parallel or sequence through one conversation.
 
+- **[SandBase Harness](https://github.com/sandbaseai/sandbase-harness)** [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=social&color=white)](https://github.com/sandbaseai/sandbase-harness/stargazers)
+  Local-first, self-hosted AI agent runtime with persistent sessions, sandboxed tool execution, MCP integration, memory, credentials, approvals, audit/replay, and a built-in Console. Apache-2.0 licensed.
+
 ### 🌟 Additional Strong Open-Source Options
 
 - **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) — Open-source AI workflow and multi-agent platform with visual builder.
