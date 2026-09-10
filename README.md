@@ -118,6 +118,9 @@ This repository tracks notable **platforms** and **open-source projects** buildi
 - **[Orkas](https://github.com/Orkas-AI/Orkas)** [![GitHub stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social&color=white)](https://github.com/Orkas-AI/Orkas/stargazers)\
   Open-source, local-first desktop AI workspace where a Commander decomposes goals and coordinates specialist agents in parallel or sequence through one conversation.
 
+- **[YYLO](https://github.com/yylo-dev/yylo)** [![GitHub stars](https://img.shields.io/github/stars/yylo-dev/yylo?style=social&color=white)](https://github.com/yylo-dev/yylo/stargazers)\
+  Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree, and a merge queue owns risk-based review of receipt-backed repository changes.
+
 ### 🌟 Additional Strong Open-Source Options
 
 - **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) — Open-source AI workflow and multi-agent platform with visual builder.
