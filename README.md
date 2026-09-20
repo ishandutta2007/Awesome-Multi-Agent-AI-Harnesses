@@ -65,6 +65,7 @@ This repository tracks notable **platforms** and **open-source projects** buildi
 | **[OpenHarness](https://github.com/HKUDS/OpenHarness)** | Free (OSS) | Free (Supports Copilot/Claude Pro) | N/A (Academic / OSS) |
 
 ### 🚀 Core Multi-Agent Harness Platforms
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — drop-in recorder that sits between your agent and the model provider.
 
 - **[Archon](https://archon.ai/)**  
   Advanced multi-agent orchestration platform designed for complex task decomposition and agent collaboration.
