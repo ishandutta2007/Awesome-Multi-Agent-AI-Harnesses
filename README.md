@@ -124,6 +124,9 @@ This repository tracks notable **platforms** and **open-source projects** buildi
 - **[Bunkhouse](https://github.com/braedonsaunders/bunkhouse)** [![GitHub stars](https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=social&color=white)](https://github.com/braedonsaunders/bunkhouse/stargazers)\
   Open-source AI employees for main-street business: multitenant company inbox, org chart, and governed procedures for multi-agent teams.
 
+- **[Orbi](https://github.com/orbi-build/orbi)** [![GitHub stars](https://img.shields.io/github/stars/orbi-build/orbi?style=social&color=white)](https://github.com/orbi-build/orbi/stargazers)\
+  Self-hostable GitHub delivery workflow with separate implementation and review sessions: the review session fixes findings and reruns tests, Orbi merges after CI passes, and release tasks are requested separately. Supports local models through OpenAI-compatible endpoints. [Website](https://orbi.build/?ref=dir-ishandutta-harnesses).
+
 ### 🌟 Additional Strong Open-Source Options
 
 - **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) — Open-source AI workflow and multi-agent platform with visual builder.
